@@ -28,7 +28,7 @@ Plug 'ashzero2/VimPilot'
 - and do the following
   
 - ```vim
-  :Cheat your-question 
+  :Cheat upload image to twitter
   ```
   
 - it will automatically find the file type of your current opened file and paste the answer of the question on opened buffer itself
